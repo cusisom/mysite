@@ -4,11 +4,11 @@ project:
  
 
 website:
-  title: "mysite"
+  title: "Bebop Paleo"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Welcome 
       - about.qmd
 
 format:
